@@ -6,4 +6,4 @@ Astronomy Picture of the Day app for Android.
 Android 6.0 or above
 
 ### Download
-[button url="https://github.com/JulianKeller/apodtest/blob/master/app-debug.apk"]
+[Download](https://github.com/JulianKeller/apodtest/blob/master/app-debug.apk)
