@@ -1,5 +1,4 @@
-(https://github.com/JulianKeller/apodtest/blob/master/app/app-debug.apk.zip)
-(https://github.com/JulianKeller/apodtest/blob/master/app/app-debug.apk.apk)
+(https://github.com/JulianKeller/apodtest/blob/master/app/app-debug.apk)
 ## APOD Test
 
 Astronomy Picture of the Day app for Android.
